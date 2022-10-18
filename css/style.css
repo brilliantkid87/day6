@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.margin {
+    margin: 50px auto;
+}
+
+.container-fluid {
+    height: 100vh;
+}
